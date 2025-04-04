@@ -6,5 +6,7 @@ int main(int argc, char **argv)
     return 0;
 }
 
-pufsh
-main
+<<<<<<< HEAD
+keep main and dimiss branch testing
+=======
+>>>>>>> testing
